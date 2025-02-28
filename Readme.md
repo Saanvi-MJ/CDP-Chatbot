@@ -1,4 +1,4 @@
-# 🐵 CDP Support Chatbot  
+# 🤖 CDP Support Chatbot  
 
 A chatbot that provides answers to **"how-to"** questions related to Customer Data Platforms (**CDP**), including:  
 - **Segment**  
@@ -23,7 +23,7 @@ This chatbot retrieves relevant information from official documentation and prov
 
 ### **Clone the Repository**  
 ```bash
-git clone https://github.com/saanvi-mj/cdp-chatbot.git
+git clone https://github.com/saanvi-mj/CDP-chatbot.git
 cd cdp-chatbot
 ```
 
