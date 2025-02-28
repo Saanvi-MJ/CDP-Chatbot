@@ -1,4 +1,4 @@
-# 🤖 CDP Support Chatbot  
+# 🐵 CDP Support Chatbot  
 
 A chatbot that provides answers to **"how-to"** questions related to Customer Data Platforms (**CDP**), including:  
 - **Segment**  
@@ -27,7 +27,7 @@ git clone https://github.com/saanvi-mj/cdp-chatbot.git
 cd cdp-chatbot
 ```
 
-**Setup API Keys**
+### Setup API Keys 
 
 For OpenAI GPT
 
@@ -36,7 +36,7 @@ Create a .env file in your project folder and add:
 
 OPENAI_API_KEY=your-openai-api-key-here
 
-Running the Chatbot
+### Running the Chatbot
 
 1️⃣ Start the Chatbot in the Terminal
 python app.py
