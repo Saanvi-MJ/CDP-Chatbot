@@ -23,7 +23,7 @@ This chatbot retrieves relevant information from official documentation and prov
 
 ### **Clone the Repository**  
 ```bash
-git clone https://github.com/saanvi-mj/CDP-chatbot.git
+git clone https://github.com/saanvi-mj/CDP-Chatbot.git
 cd cdp-chatbot
 ```
 
