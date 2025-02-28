@@ -25,6 +25,7 @@ This chatbot retrieves relevant information from official documentation and prov
 ```bash
 git clone https://github.com/saanvi-mj/cdp-chatbot.git
 cd cdp-chatbot
+```
 
 **Setup API Keys**
 
