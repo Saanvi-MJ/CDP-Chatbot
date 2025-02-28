@@ -37,6 +37,7 @@ Create a .env file in your project folder and add:
 OPENAI_API_KEY=your-openai-api-key-here
 
 Running the Chatbot
+
 1️⃣ Start the Chatbot in the Terminal
 python app.py
 
